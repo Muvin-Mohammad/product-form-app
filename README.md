@@ -1,5 +1,5 @@
 Live link:
-https://app.netlify.com/sites/benevolent-babka-a17a8a/deploys/66c316aea07baf8fd7ff7a34
+https://66c316aea07baf8fd7ff7a34--benevolent-babka-a17a8a.netlify.app/
 
 
 Install Required Dependencies:
